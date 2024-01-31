@@ -1,5 +1,6 @@
 
  <div>
+  Olá, <br> <br>
   💻 Meu nome é Mariana, sou Quality Assurance (QA). <br>
   💛 Amo trabalhar com Java Script.
   
