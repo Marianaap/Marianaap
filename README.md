@@ -1,6 +1,6 @@
 ## Oi! Eu sou a Mariana! 
  <div>
-  💻 Meu nome é Mariana, sou Analista de Qualidade (QA).
+  💻 Meu nome é Mariana, sou Analista de Qualidade (QA). <br>
   💛 Amo trabalhar com Java Script.
   
 </div>
