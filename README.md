@@ -3,7 +3,7 @@
   Olá, <br> <br>
   👩‍💻 Meu nome é Mariana, sou Quality Assurance (QA). <br>
   💛 Amo trabalhar com tecnologia. <br>
-  💻 Utilizo muito no meu dia a dia Java Script e Cypress.
+  💻 Utilizo muito no meu dia a dia JavaScript e Cypress.
   
 </div>
 
