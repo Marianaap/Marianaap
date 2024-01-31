@@ -1,8 +1,9 @@
 
  <div>
   Olá, <br> <br>
-  💻 Meu nome é Mariana, sou Quality Assurance (QA). <br>
-  💛 Amo trabalhar com Java Script.
+  👩‍💻 Meu nome é Mariana, sou Quality Assurance (QA). <br>
+  💛 Amo trabalhar com tecnologia.
+  💻 Utilizo muito no meu dia a dia Java Script e Cypress.
   
 </div>
 
